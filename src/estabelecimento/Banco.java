@@ -1,3 +1,7 @@
+package estabelecimento;
+
+import conta.Conta;
+
 import java.util.List;
 
 public class Banco {
